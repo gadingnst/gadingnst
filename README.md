@@ -30,7 +30,7 @@ Currently working in *Software Engineering Division* as a ***Frontend Developer*
 
 ### 🔍 Currently Learning:
 - Dive deeper into Frontend Development Complexity
-- Functional Programming Paradigm
+- Functional Programming Paradigm (Mathmatical functions styles)
 - Design Pattern
 - UI/UX Design
 - Writing
