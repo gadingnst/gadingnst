@@ -5,7 +5,7 @@ Currently working in *Software Engineering Division* as a ***Frontend Developer*
 
 ## ✍️ Activities
 - (Always) self taught and research some technology stuff from the internet.
-- Coding, reading, blogging, and surfng in social media for my mood and fun.
+- Coding, reading, blogging, and surfing in social media for my mood and fun.
 - Making quality time for my family and girlfriend every weekend, ehm.
 
 ## 💻 Experiences
