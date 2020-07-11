@@ -19,7 +19,7 @@ Currently working in *Software Engineering Division* as a ***Frontend Developer*
 - CI/CD Integration
 - Bots, Automation, Task Runner
 - MySQL, MongoDB, Redis, Plain JSON/CSV
-- AWS, Vercel, Netlify, Firebase, Mongo Cloud/mLab, Heroku, Cloudinary (*SaaS/PaaS*)
+- AWS, Vercel, Netlify, Firebase, Mongo Cloud/mLab, Heroku, Cloudinary, GAPPS API (*SaaS/PaaS*)
 
 ## 🔧 Tools
 - OS: Arch Linux
