@@ -10,23 +10,25 @@ Currently working in *Software Engineering Division* as a ***Frontend Developer*
 
 ## 💻 Experiences
 - Pure JavaScript/TypeScript
+- GIT (VCS)
 - React Web/Native (*SPA, Hooks, Context API, Redux*)
 - NextJS, NuxtJS (*SSR, SSG/JAMStack*)
 - CSS Preprocessor (*SASS, LESS*)
 - NodeJS Environment (*Real-time, Asynchronous/Concurrent Processing*)
-- RESTful/GraphQL
+- RESTful/GraphQL (API Integration)
 - CI/CD Integration
 - Bots, Automation, Task Runner
 - MySQL, MongoDB, Redis, Plain JSON/CSV
-- AWS, Vercel, Netlify, Firebase, Mongo Cloud/mLab, Heroku (*SaaS/PaaS*)
+- AWS, Vercel, Netlify, Firebase, Mongo Cloud/mLab, Heroku, Cloudinary (*SaaS/PaaS*)
 
 ## 🔧 Tools
 - OS: Arch Linux
-- Task & Time Management: Jira, Timedoctor
+- Task Management: Jira, Trello
+- Time Tracker: Timedoctor
 - Code Editor: Visual Studio Code
 - Database GUI: DBEaver, PhpMyAdmin and Robo 3T
-- Browsers: Google Chrome and Firefox
-- Others: Spotify, XDMan & Advanced REST Client
+- Browsers: Chrome, Firefox
+- Others: Spotify, XDMan, Advanced REST Client
 
 ### 🔍 Currently Learning:
 - Dive deeper into Frontend Development Complexity
