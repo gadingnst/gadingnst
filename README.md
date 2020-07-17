@@ -3,11 +3,6 @@
 ## 💼 Career
 Currently working in *Software Engineering Division* as a ***Frontend Developer*** at [Orami Indonesia](https://github.com/bilna-dev). Helping Orami to build application services for *simplify parenting* with technology throughout Southeast Asia.
 
-## ✍️ Activities
-- (Always) self taught and research some technology stuff from the internet.
-- Coding, reading, blogging, and surfing in social media for my mood and fun.
-- Making quality time for my family and girlfriend every weekend, ehm.
-
 ## 💻 Experiences
 - Pure JavaScript/TypeScript
 - GIT (VCS)
@@ -20,15 +15,6 @@ Currently working in *Software Engineering Division* as a ***Frontend Developer*
 - Bots, Automation, Task Runner
 - MySQL, MongoDB, Redis, Plain JSON/CSV
 - AWS, Vercel, Netlify, Firebase, Mongo Cloud/mLab, Heroku, Cloudinary, GAPPS API (*SaaS/PaaS*)
-
-## 🔧 Tools
-- OS: Arch Linux
-- Task Management: Jira, Trello
-- Time Tracker: Timedoctor
-- Code Editor: Visual Studio Code
-- Database GUI: DBEaver, PhpMyAdmin and Robo 3T
-- Browsers: Chrome, Firefox
-- Others: Spotify, XDMan, Advanced REST Client
 
 ### 🔍 Currently Learning:
 - Dive deeper into Frontend Development Complexity
