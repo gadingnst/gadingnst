@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="padding: 10px 0">
   <img src="https://github-readme-stats.vercel.app/api?username=sutanlab&show_icons=true&theme=dracula" alt="Sutanlab Github Stats">
 </div>
 
