@@ -1,4 +1,6 @@
-<div align="center"> ![Sutanlab Github Stats](https://github-readme-stats.vercel.app/api?username=sutanlab&show_icons=true&theme=dracula) </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sutanlab&show_icons=true&theme=dracula" alt="Sutanlab Github Stats">
+</div>
 
 👋 Hello... My full name is Sutan Gading Fadhillah Nasution, so you can call me "Gading". I'm Software Engineer who specialized in *frontend* side, but also have an ability to code in *backend* side. Very passionate about modern *mobile and web technology* using JavaScript/TypeScript while taking into consideration the latest trends and techniques.
 
