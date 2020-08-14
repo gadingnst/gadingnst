@@ -34,7 +34,7 @@ Currently working in *Software Engineering Division* as a ***Frontend Developer*
 - Email: [sutan.gnst@gmail.com](mailto:sutan.gnst@gmail.com)
 - LinkedIn: [sutan-nasution](https://www.linkedin.com/in/sutan-nasution/)
 - Instagram: [@gadingnst](https://instagram.com/gadingnst)
-- Twitter: [@sutan_gnst](https://twitter.com/sutan_gnst)
+- Twitter: [@gading_nst](https://twitter.com/gading_nst)
 - Telegram: [@gadingnasution](https://t.me/gadingnasution)
 
 ---
