@@ -11,13 +11,12 @@ Currently working in *Software Engineering Division* as a ***Frontend Developer*
 ## 💻 Experiences
 - Pure JavaScript/TypeScript
 - GIT (VCS)
+- JavaScript Ecosystem & Environment (*Real-time, Asynchronous/Concurrent Processing*)
 - React Web/Native (*SPA, Hooks, Context API, Redux*)
 - NextJS, NuxtJS (*SSR, SSG/JAMStack*)
 - CSS Preprocessor (*SASS, LESS*)
-- NodeJS Environment (*Real-time, Asynchronous/Concurrent Processing*)
 - RESTful/GraphQL (API Integration)
-- CI/CD Integration
-- Bots, Automation, Task Runner
+- CI/CD Integration, Bots, Automation, Task Runner
 - MySQL, MongoDB, Redis, Plain JSON/CSV
 - AWS, Vercel, Netlify, Firebase, Mongo Cloud/mLab, Heroku, Cloudinary, GAPPS API (*SaaS/PaaS*)
 
