@@ -28,7 +28,7 @@ Currently working in *Software Engineering Division* as a ***Frontend Developer*
 
 ### 🚀 How to reach me:
 - Web: [sutanlab.id](https://sutanlab.id)
-- Email: [sutan.gnst@gmail.com](mailto:sutan.gnst@gmail.com)
+- Email: [contact@sutanlab.id](mailto:contact@sutanlab.id)
 - LinkedIn: [sutan-nasution](https://www.linkedin.com/in/sutan-nasution/)
 - Instagram: [@gadingnst](https://instagram.com/gadingnst)
 - Twitter: [@gading_nst](https://twitter.com/gading_nst)
