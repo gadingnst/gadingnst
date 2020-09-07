@@ -15,10 +15,8 @@ Currently working in *Software Engineering Division* as a ***Frontend Developer*
 - React Web/Native (*SPA, Hooks, Context API, Redux*)
 - NextJS, NuxtJS (*SSR, SSG/JAMStack*)
 - CSS Preprocessor (*SASS, LESS*)
-- RESTful/GraphQL (API Integration)
-- CI/CD Integration, Bots, Automation, Task Runner
-- MySQL, MongoDB, Redis, Plain JSON/CSV
-- AWS, Vercel, Netlify, Firebase, Mongo Cloud/mLab, Heroku, Cloudinary, GAPPS API (*SaaS/PaaS*)
+- Bots, Automation, Task Runner
+- Vercel, Netlify, Firebase, Mongo Cloud/mLab, Heroku, Cloudinary, AWS EC2, GAPPS API (*SaaS/PaaS*)
 
 ### 🔍 Currently Learning:
 - Dive deeper into Frontend Development Complexity
