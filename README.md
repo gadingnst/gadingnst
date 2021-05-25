@@ -23,11 +23,9 @@ Currently working in *Software Engineering Division* as a ***Frontend Developer*
 ### 🔍 Currently Learning:
 - Cryptocurrency & Blockchain
 - Dive deeper into Frontend Development Complexity
-- Functional Programming Paradigm (Mathmatical functions style)
 - Design Pattern
 - UI/UX Design
 - Writing
-- Self Improvement
 
 ### 🚀 How to reach me:
 - Web: [sutanlab.id](https://sutanlab.id)
