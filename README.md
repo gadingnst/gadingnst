@@ -21,6 +21,7 @@ Currently working in *Software Engineering Division* as a ***Frontend Developer*
 - Vercel, Netlify, Firebase, Mongo Cloud/mLab, Heroku, Cloudinary, AWS EC2, GAPPS API (*SaaS/PaaS*)
 
 ### 🔍 Currently Learning:
+- Cryptocurrency & Blockchain
 - Dive deeper into Frontend Development Complexity
 - Functional Programming Paradigm (Mathmatical functions style)
 - Design Pattern
@@ -38,4 +39,4 @@ Currently working in *Software Engineering Division* as a ***Frontend Developer*
 
 ---
 
-© 2020 — Sutan Gading Fadhillah Nasution
+© 2021 — Sutan Gading Fadhillah Nasution
