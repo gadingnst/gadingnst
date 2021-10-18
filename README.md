@@ -16,7 +16,7 @@ Currently working in *Software Engineering Division* as a ***Frontend Developer*
 - JavaScript Ecosystem & Environment (*Real-time, Asynchronous/Concurrent Processing*)
 - React Web/Native (*SPA, Hooks, Context API, Redux*)
 - NextJS, NuxtJS (*SSR, SSG/JAMStack*)
-- CSS Preprocessor (*SASS, LESS*)
+- CSS Preprocessor (*SASS, PostCSS*)
 - Bots, Automation, Task Runner
 - Vercel, Netlify, Firebase, Mongo Cloud/mLab, Heroku, Cloudinary, AWS EC2, GAPPS API (*SaaS/PaaS*)
 
@@ -28,8 +28,8 @@ Currently working in *Software Engineering Division* as a ***Frontend Developer*
 - Writing
 
 ### 🚀 How to reach me:
-- Web: [sutanlab.id](https://sutanlab.id)
-- Email: [contact@sutanlab.id](mailto:contact@sutanlab.id)
+- Web: [gading.dev](https://gading.dev)
+- Email: [contact@gading.dev](mailto:contact@gading.dev)
 - LinkedIn: [sutan-nasution](https://www.linkedin.com/in/sutan-nasution/)
 - Instagram: [@gadingnst](https://instagram.com/gadingnst)
 - Twitter: [@gading_nst](https://twitter.com/gading_nst)
