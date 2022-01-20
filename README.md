@@ -8,9 +8,9 @@
 👋 Hello... My full name is Sutan Gading Fadhillah Nasution, so you can call me "Gading". I'm Software Engineer who specialized in *frontend* side, but also have an ability to code in *backend* side. Very passionate about modern *mobile and web technology* using JavaScript/TypeScript while taking into consideration the latest trends and techniques.
 
 ## 💼 Career
-Currently working in *Software Engineering Division* as a ***Core Frontend Developer*** at [Orami Indonesia](https://github.com/bilna-dev). Helping Orami to build application services for *simplify parenting* with technology throughout Southeast Asia.
+Currently working in *Software Engineering Division* as a ***Core Frontend Developer*** at [Orami By SIRCLO](https://github.com/bilna-dev). Helping Orami to build application services for *simplify parenting* with technology throughout Southeast Asia.
 
-## 💻 Experiences
+## 💻 Stacks Experiences
 - Pure JavaScript/TypeScript
 - GIT (VCS)
 - JavaScript Ecosystem & Environment (*Real-time, Asynchronous/Concurrent Processing*)
