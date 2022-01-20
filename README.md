@@ -23,8 +23,8 @@ Currently working in *Software Engineering Division* as a ***Core Frontend Devel
 ### 🔍 Currently Learning:
 - Cryptocurrency & Blockchain
 - Dive deeper into Frontend Development Complexity
+- UI/UX Design guideline
 - Design Pattern
-- UI/UX Design
 - Writing
 
 ### 🚀 How to reach me:
