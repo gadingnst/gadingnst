@@ -13,10 +13,10 @@ Currently working in *Software Engineering Division* as a ***Core Frontend Devel
 ## 💻 Stacks Experiences
 - Pure JavaScript/TypeScript
 - GIT (VCS)
-- JavaScript Ecosystem & Environment (*Real-time, Asynchronous/Concurrent Processing*)
-- React Web/Native (*SPA, Hooks, Context API, Redux*)
-- NextJS, NuxtJS (*SSR, SSG/JAMStack*)
-- CSS Preprocessor (*SASS, PostCSS*)
+- JavaScript Ecosystem & Environment
+- React Web/Native
+- NextJS, NuxtJS
+- CSS Preprocessor
 - Bots, Automation, Task Runner
 - Vercel, Netlify, Firebase, Mongo Cloud/mLab, Heroku, Cloudinary, AWS EC2, GAPPS API (*SaaS/PaaS*)
 
