@@ -30,10 +30,10 @@ Currently working in *Software Engineering Division* as a ***Core Frontend Devel
 ### 🚀 How to reach me:
 - Web: [gading.dev](https://gading.dev)
 - Email: [contact@gading.dev](mailto:contact@gading.dev)
-- LinkedIn: [sutan-nasution](https://www.linkedin.com/in/gading-nasution/)
+- LinkedIn: [gadingnst](https://www.linkedin.com/in/gadingnst)
 - Instagram: [@gadingnst](https://instagram.com/gadingnst)
-- Twitter: [@gading_nst](https://twitter.com/gading_nst)
-- Telegram: [@gadingnasution](https://t.me/gadingnasution)
+- Twitter: [@gadingnstn](https://twitter.com/gadingnstn)
+- Telegram: [@gadingnst](https://t.me/gadingnst)
 
 ---
 
