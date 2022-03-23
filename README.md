@@ -25,7 +25,7 @@ Currently working in *Software Engineering Division* as a ***Core Frontend Devel
 - Dive deeper into Frontend Development Complexity
 - UI/UX Design guideline
 - Design Pattern
-- Writing
+- Writing & Sepaking
 
 ### 🚀 How to reach me:
 - Web: [gading.dev](https://gading.dev)
