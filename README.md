@@ -37,4 +37,4 @@ Currently working in *Software Engineering Division* as a ***Core Frontend Devel
 
 ---
 
-© 2021 — Sutan Gading Fadhillah Nasution
+© 2022 — Sutan Gading Fadhillah Nasution
