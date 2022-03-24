@@ -37,7 +37,4 @@ Currently working in *Software Engineering Division* as a ***Core Frontend Devel
 
 ---
 
-© <span id="gadingnst-c-date"></span> — Sutan Gading Fadhillah Nasution
-<script>
-document.getElementById('gadingnst-c-date').innerHTML = new Date().getFullYear();
-</script>
+© 2022 — Sutan Gading Fadhillah Nasution
