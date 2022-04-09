@@ -11,20 +11,16 @@
 Currently working in *Software Engineering Division* as a ***Core Frontend Developer*** at [Orami By SIRCLO](https://github.com/bilna-dev). Helping Orami to build application services for *simplifying parenting* with technology throughout Southeast Asia.
 
 ## 💻 Stacks Experiences
-- Pure JavaScript/TypeScript
-- GIT (VCS)
-- JavaScript Ecosystem & Environment
-- React Web/Native
-- NextJS, NuxtJS
-- CSS Preprocessor
+- Pure JavaScript/TypeScript Environment
+- React Web/Native/NextJS, Vue/NuxtJS
+- Jest, React Testing Library
+- Storybook
 - Bots, Automation, Task Runner
-- Vercel, Netlify, Firebase, Mongo Cloud/mLab, Heroku, Cloudinary, AWS EC2, GAPPS API (*SaaS/PaaS*)
 
 ### 🔍 Currently Learning:
 - Cryptocurrency & Blockchain
-- Dive deeper into Frontend Development Complexity
-- UI/UX Design guideline
-- Design Pattern
+- Software Design Pattern
+- UI/UX Design Guideline & Documentation
 - Writing & Speaking
 
 ### 🚀 How to reach me:
