@@ -16,7 +16,8 @@ Currently working in *Software Engineering Division* as a ***Core Frontend Devel
 - Jest, React Testing Library
 - Storybook
 - Bots, Automation, Task Runner, Data Collection
-- And, I would be open-mind to learning other Tech Stacks if needed
+
+***And, I would be open-mind to learning other Tech Stacks if needed.***
 
 ### 🔍 Currently Learning:
 - Cryptocurrency & Blockchain
