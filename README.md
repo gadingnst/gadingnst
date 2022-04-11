@@ -19,13 +19,13 @@ Currently working in *Software Engineering Division* as a ***Core Frontend Devel
 
 ***And, I would be open-mind to learning other Tech Stacks if needed.***
 
-### 🔍 Currently Learning:
+## 🔍 Currently Learning:
 - Cryptocurrency & Blockchain
 - Software Design Pattern
 - UI/UX Guideline & Documentation for Frontend Implementation
 - Writing & Speaking
 
-### 🚀 How to reach me:
+## 🚀 How to reach me:
 - Web: [gading.dev](https://gading.dev)
 - Email: [contact@gading.dev](mailto:contact@gading.dev)
 - LinkedIn: [gadingnst](https://www.linkedin.com/in/gadingnst)
