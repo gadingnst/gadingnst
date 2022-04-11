@@ -15,7 +15,7 @@ Currently working in *Software Engineering Division* as a ***Core Frontend Devel
 - React Web/Native/NextJS, Vue/NuxtJS
 - Jest, React Testing Library
 - Storybook
-- Bots, Automation, Task Runner
+- Bots, Automation, Task Runner, Data Collection
 
 ### 🔍 Currently Learning:
 - Cryptocurrency & Blockchain
