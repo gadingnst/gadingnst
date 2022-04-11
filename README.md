@@ -10,12 +10,13 @@
 ## 💼 Career
 Currently working in *Software Engineering Division* as a ***Core Frontend Developer*** at [Orami By SIRCLO](https://github.com/bilna-dev). Helping Orami to build application services for *simplifying parenting* with technology throughout Southeast Asia.
 
-## 💻 Stacks Experiences
+## 💻 Tech Experiences
 - Pure JavaScript/TypeScript Environment
 - React Web/Native/NextJS, Vue/NuxtJS
 - Jest, React Testing Library
 - Storybook
 - Bots, Automation, Task Runner, Data Collection
+- And, I would be open-mind to learning other Tech Stacks if needed
 
 ### 🔍 Currently Learning:
 - Cryptocurrency & Blockchain
