@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gadingnst&show_icons=true&theme=dracula" alt="Gading Github Stats">
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=gadingnst&color=F4A4B5&style=flat" alt="gadingnst" />
-  <a href="https://wakatime.com/@7a831ab0-e43a-4215-aa08-92f915bed065"><img src="https://wakatime.com/badge/user/7a831ab0-e43a-4215-aa08-92f915bed065.svg" alt="Total time coded since May 13 2019" /></a>
+  <img src="https://komarev.com/ghpvc/?username=gadingnst&color=F4A4B5&style=flat" alt="Gading's Github Profile Views" />
+  <img src="https://wakatime.com/badge/user/7a831ab0-e43a-4215-aa08-92f915bed065.svg" alt="Total time coded since May 13 2019" />
 </div>
 <br>
 
