@@ -6,15 +6,15 @@
 </div>
 <br>
 
-👋 Hello. My full name is Sutan Gading Fadhillah Nasution, and you can call me "Gading". I'm Software Engineer who specialized in *Frontend* on Full-time works but also has some ability to code in *Backend* on Freelance/Side works. Very passionate about modern *mobile and web technology* while taking into consideration about the *DX (Developer Experience)*, latest trends, and techniques. 
+👋 Hello. My full name is Sutan Gading Fadhillah Nasution, and you can call me "Gading". I'm Software Engineer who specialized in *Frontend* on Full-time works but also has some ability to code in *Fullstack* on Freelance/Side works. Very passionate about modern *mobile and web technology* while taking into consideration about the *DX (Developer Experience)*, latest trends, and techniques. 
 
 ## 💼 Career
-I'm currently working full-time remotely as a ***Software Engineer*** at [SIRCLO](https://sirclo.com) on the [Orami's](https://orami.co.id) Core Engineering Team. Focuses on improving *DX (Developer Experience)* in the Frontend Team, such as setup the boilerplate, creating utilities/libraries, and improving the reliability structure/codebases. My works is mostly on building services that are not *end-to-end products* on the Frontend side.
+I'm currently working full-time remotely as a ***Software Engineer*** at [SIRCLO](https://sirclo.com) on the [Orami's](https://orami.co.id) Core Engineering Team. Focuses on improving *DX (Developer Experience)* in the Frontend team, such as setup the boilerplate, standardization, creating utilities/libraries, and improving the reliability structure/codebases. My works is mostly on building services that are not *end-to-end products* on the Frontend side.
 
 ## 💻 Tech Experiences
-- Languages: Pure JavaScript/TypeScript Environment
-- Frameworks: React Web/Native/NextJS, Vue/NuxtJS
-- DX: Jest, React Testing Library, Storybook
+- Languages: Fullstack JavaScript/TypeScript Environment.
+- Frameworks: React Web/Native/NextJS, Vue/NuxtJS.
+- DX: Jest, React Testing Library, Storybook, Frontend Standarization.
 - Fields: Frontend/Fullstack Development, Bots, Automation, Task Runner, and Data Collection.
 
 ***And, I would be open-mind to learning other Tech Stacks if needed.***
