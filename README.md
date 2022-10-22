@@ -6,24 +6,23 @@
 </div>
 <br>
 
-👋 Hello. My full name is Sutan Gading Fadhillah Nasution, and you can call me "Gading". I'm Software Engineer who specialized in *Frontend* on Full-time works, but also have some ability to code in *Backend* on Freelance/Side works. Very passionate about modern *mobile and web technology* while taking into consideration the latest trends and techniques.
+👋 Hello. My full name is Sutan Gading Fadhillah Nasution, and you can call me "Gading". I'm Software Engineer who specialized in *Frontend* on Full-time works but also has some ability to code in *Backend* on Freelance/Side works. Very passionate about modern *mobile and web technology* while taking into consideration about the DX (Developer Experience), latest trends, and techniques. 
 
 ## 💼 Career
-Currently working in *Software Engineering Division* as a ***Core Frontend Developer*** at [Orami By SIRCLO](https://github.com/bilna-dev). Helping Orami to build application services for *simplifying parenting* with technology throughout Southeast Asia.
+I'm working full-time remotely as a Software Engineer at [SIRCLO](https://sirclo.com) on the [Orami's](https://orami.co.id) Core Engineering Team. Focuses on improving DX (Developer Experience) in the Frontend Team, such as setup the boilerplate, creating utilities/libraries, and improving the reliability structure/codebases. My works is mostly on building services that are not end-to-end products on the Frontend side.
 
 ## 💻 Tech Experiences
-- Pure JavaScript/TypeScript Environment
-- React Web/Native/NextJS, Vue/NuxtJS
-- Jest, React Testing Library
-- Storybook
-- Bots, Automation, Task Runner, Data Collection
+- Languages: Pure JavaScript/TypeScript Environment
+- Frameworks: React Web/Native/NextJS, Vue/NuxtJS
+- DX: Jest, React Testing Library, Storybook
+- Fields: Frontend/Fullstack Development, Bots, Automation, Task Runner, and Data Collection.
 
 ***And, I would be open-mind to learning other Tech Stacks if needed.***
 
 ## 🔍 Currently Learning:
 - Cryptocurrency & Blockchain
 - Software Design Pattern
-- UI/UX Guideline & Documentation for Frontend Implementation
+- DX, UI/UX Guideline & Documentation for Frontend Implementation
 - Writing & Speaking
 
 ## 🚀 How to reach me:
