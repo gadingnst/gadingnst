@@ -19,8 +19,8 @@ I'm currently working full-time remotely as a ***Software Engineer*** at [SIRCLO
 
 ***And, I would be open-mind to learning other Tech Stacks if needed.***
 
-## 🔍 Currently Learning:
-- Cryptocurrency & Blockchain
+## 🔍 Currently Learning and Building:
+- Blockchain, Web3
 - Software Design Pattern
 - DX, UI/UX Guideline & Documentation for Frontend Implementation
 - Writing & Speaking
