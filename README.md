@@ -12,7 +12,7 @@
 I'm currently working full-time remotely as a ***Software Engineer*** at [Alterra](https://alterra.id). Focuses on building the Web3 Architecture and improving its *DX (Developer Experience)*.
 
 ## 💻 Tech Experiences
-- Languages: Fullstack JavaScript/TypeScript Environment.
+- Languages: JavaScript/TypeScript Environment.
 - Frameworks: React Web/Native/NextJS, Vue/NuxtJS.
 - DX: Jest, React Testing Library, Storybook, Frontend Standarization.
 - Fields: Frontend/Fullstack Development, Bots, Automation, Task Runner, and Data Collection.
