@@ -20,7 +20,7 @@ I'm currently working full-time remotely as a ***Software Engineer*** at [Alterr
 ***And, I would be open-mind to learning other Tech Stacks if needed.***
 
 ## 🔍 Currently Learning and Building:
-- Blockchain, Web3
+- Blockchain, Web3, Solidity
 - Software Design Pattern
 - DX, UI/UX Guideline & Documentation for Frontend Implementation
 - Writing & Speaking
