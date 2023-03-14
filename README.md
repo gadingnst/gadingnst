@@ -35,4 +35,4 @@ I'm currently working full-time remotely as a ***Software Engineer*** at [Alterr
 
 ---
 
-© 2022 — Sutan Gading Fadhillah Nasution
+© 2023 — Sutan Gading Fadhillah Nasution
