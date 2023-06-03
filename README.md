@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=gadingnst&show_icons=true&theme=dracula](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=gadingnst&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px)" alt="Gading CodersRank Stats">
+  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=gadingnst&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px" alt="Gading CodersRank Stats">
   <img src="https://github-readme-stats.vercel.app/api?username=gadingnst&show_icons=true&theme=dracula" alt="Gading Github Stats">
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=gadingnst&color=F4A4B5&style=flat" alt="Gading's Github Profile Views" />
