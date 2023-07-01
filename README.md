@@ -10,7 +10,8 @@
 👋 Hello. My full name is Sutan Gading Fadhillah Nasution, and you can call me ***"Gading"***. I'm Software Engineer who specialized in *Frontend* on Full-time works but also has some ability to code in *Fullstack* on Freelance/Side works. Very passionate about modern *mobile and web technology* while taking into consideration about the *DX (Developer Experience)*. 
 
 ## 💼 Career
-I'm currently working full-time remotely as a ***Software Engineer*** at [Alterra](https://alterra.id). Currently on building the Web3 Platform and improving its *DX (Developer Experience)*.
+I'm currently working full-time remotely as a ***Software Engineer***. Currently on building the Web3 Platform and improving its *DX (Developer Experience)*.
+I have 3+ YoE in professional works, ~2 YoE in DevEx, and about ~5+ YoE in Learning about Software Engineering (started in 2017).
 
 ## 💻 Tech Experiences
 - Languages: JavaScript/TypeScript Environment, Solidity.
