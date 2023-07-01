@@ -13,14 +13,6 @@
 I'm currently working full-time remotely as a ***Software Engineer***. Currently on building the Web3 Platform and improving its *DX (Developer Experience)*.
 I have 3+ YoE in professional works (including ~2 YoE in DevEx), and about ~5+ YoE in Learning about Software Engineering (started in 2017).
 
-## 💻 Tech Experiences
-- Languages: JavaScript/TypeScript Environment, Solidity.
-- Frameworks: React Web/Native/NextJS, Vue/NuxtJS, Hardhat.
-- DX: Jest, React Testing Library, Storybook, Frontend Standardization.
-- Fields: Frontend/Fullstack Development, Bots, Automation, Task Runner, and Data Collection.
-
-***And, I would be open-mind to learning other Tech Stacks if needed.***
-
 ## 🔍 Currently Learning:
 - Blockchain, Cryptography, Web3/DApps, Solidity
 - DevX, Platform Engineering, Guideline & Tech Docs Writing
