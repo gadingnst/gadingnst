@@ -7,24 +7,22 @@
 </div>
 <br>
 
-👋 Hello. My full name is Sutan Gading Fadhillah Nasution, and you can call me ***"Gading"***. I'm Software Engineer who specialized in *Frontend* on Full-time works but also has some ability to code in *Fullstack* on Freelance/Side works. Very passionate about modern *mobile and web technology* while taking into consideration about the *DX (Developer Experience)*, latest trends, and techniques. 
+👋 Hello. My full name is Sutan Gading Fadhillah Nasution, and you can call me ***"Gading"***. I'm Software Engineer who specialized in *Frontend* on Full-time works but also has some ability to code in *Fullstack* on Freelance/Side works. Very passionate about modern *mobile and web technology* while taking into consideration about the *DX (Developer Experience)*. 
 
 ## 💼 Career
-I'm currently working full-time remotely as a ***Software Engineer*** at [Alterra](https://alterra.id). Focuses on building the Web3 Platform and improving its *DX (Developer Experience)*.
+I'm currently working full-time remotely as a ***Software Engineer*** at [Alterra](https://alterra.id). Currently on building the Web3 Platform and improving its *DX (Developer Experience)*.
 
 ## 💻 Tech Experiences
 - Languages: JavaScript/TypeScript Environment, Solidity.
 - Frameworks: React Web/Native/NextJS, Vue/NuxtJS, Hardhat.
-- DX: Jest, React Testing Library, Storybook, Frontend Standarization.
+- DX: Jest, React Testing Library, Storybook, Frontend Standardization.
 - Fields: Frontend/Fullstack Development, Bots, Automation, Task Runner, and Data Collection.
 
 ***And, I would be open-mind to learning other Tech Stacks if needed.***
 
-## 🔍 Currently Learning and Building:
-- Blockchain, Web3, Solidity
-- Software Design Pattern
-- DX, UI/UX Guideline & Documentation for Frontend Implementation
-- Writing & Speaking
+## 🔍 Currently Learning:
+- Blockchain, Cryptography, Web3/DApps, Solidity
+- DevX, Platform Engineering, Guideline & Tech Docs Writing
 
 ## 🚀 How to reach me:
 - Web: [gading.dev](https://gading.dev)
