@@ -21,7 +21,7 @@ I'm working full-time remotely as a ***Software Engineer***. Currently on buildi
 I have 3+ YoE in professional works (including ~2 YoE in DevEx), and about ~5+ YoE in Learning about Software Engineering (started in 2017).
 
 ## 🔍 Currently Learning:
-- Blockchain, Cryptography, Web3/DApps, Solidity, and Generative AI/LLM.
+- Embedded, Microcontroller/Microprocessor, Blockchain, Cryptography, Web3/DApps, Solidity, and Generative AI/LLM.
 - DevX, Platform Engineering, Guideline & Tech Docs Writing
 
 ## 🚀 How to reach me:
