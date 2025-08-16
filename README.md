@@ -18,7 +18,7 @@
 
 ## 💼 Career
 I'm working full-time remotely as a ***Software Engineer***. Currently on building the Web3 Platform and improving its *DX (Developer Experience)*.
-I have 3+ YoE in professional works (including ~2 YoE in DevEx), and about ~5+ YoE in Learning about Software Engineering (started in 2017).
+I have 5+ YoE in professional works (including ~2 YoE in DevEx), and about ~7+ YoE in Learning about Software Engineering (started in 2017).
 
 ## 🔍 Currently Learning:
 - Embedded, Microcontroller/Microprocessor, Blockchain, Cryptography, Web3/DApps, Solidity, and Generative AI/LLM.
