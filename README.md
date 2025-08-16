@@ -34,4 +34,4 @@ I have 5+ YoE in professional works (including ~2 YoE in DevEx), and about ~7+ Y
 
 ---
 
-© 2023 — Sutan Gading Fadhillah Nasution
+© 2025 — Sutan Gading Fadhillah Nasution
