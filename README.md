@@ -14,7 +14,7 @@
 </div>
 <br>
 
-👋 Hello. My full name is Sutan Gading Fadhillah Nasution, and you can call me ***"Gading"***. I'm Software Engineer who specialized in *Frontend* on Full-time works but also has some ability to code in *Fullstack* on Freelance/Side works. Very passionate about modern *mobile and web technology* while taking into consideration about the *DX (Developer Experience)*. 
+👋 Hello. My full name is Sutan Gading Fadhillah Nasution, and you can call me ***"Gading"***. I'm Software Engineer who specialized in *Frontend* on Full-time works but also has some ability to code in *Fullstack* works. Very passionate about modern *mobile and web technology* while taking into consideration about the *DX (Developer Experience)*. 
 
 ## 💼 Career
 I'm working full-time remotely as a ***Software Engineer***. Currently on building the Web3 Platform and improving its *DX (Developer Experience)*.
